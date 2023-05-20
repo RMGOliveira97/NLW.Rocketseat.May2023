@@ -1,7 +1,13 @@
-<<<<<<< HEAD
 <p align="center">
-    <img src="./github/preview.png" alt="Thumbnail" width="100%">
+  <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
 </p>
-=======
-# NLW.Rocketseat.May2023
->>>>>>> 7eebb34c84453cf4abb134a45ad4845370322f52
+
+## 🖥️ Projeto
+Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
+
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+
+- HTML
+- CSS
+- Git e Github
